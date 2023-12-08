@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BelajarBareng"
+rootProject.name = "Belajar Android"
 include(":app")
+ 
